@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Oğuz Kağan Hitit</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body data-spy="scroll" data-target=".site-navbar-target" data-offset="300">
+	  
+    <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar ftco-navbar-light site-navbar-target" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" href="index.html">Hitit</a>
+	      <button class="navbar-toggler js-fh5co-nav-toggle fh5co-nav-toggle" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav nav ml-auto">
+	          <li class="nav-item"><a href="#home-section" class="nav-link"><span>Home</span></a></li>
+	          <li class="nav-item"><a href="#resume-section" class="nav-link"><span>Resume</span></a></li>
+	          <li class="nav-item"><a href="#projects-section" class="nav-link"><span>Projects</span></a></li>
+			  <li class="nav-item"><a href="#skills-section" class="nav-link"><span>Skills</span></a></li>
+	        </ul>
+	      </div>
+	    </div>
+	</nav>
+	
+	<section class="ftco-section" id="services-section">
+    	<div class="container">
+    		<div class="row justify-content-center py-5 mt-5">
+          <div class="col-md-12 heading-section text-center ftco-animate">
+          	<h1 class="big big-2">MATLAB</h1>
+            <h2 class="mb-4">MATLAB</h2>
+          </div>
+        </div>
+		<div class="row">
+			<div class="col-md-12">
+				<div class="resume-wrap ftco-animate">
+					<h2>Effect of Poisson Distribution on Imaging</h2>
+					<div class="row">
+						<div class="col-md">
+							<img src="images/imageprocessing/groundtruth.png"
+								 height = auto
+								 width = 510px />
+						</div>
+						<div class="col-md">
+							<img src="images/imageprocessing/decayed10.png"
+								 height = auto
+								 width = 510px />						
+						</div>	
+					</div>
+					<div class="row" style="padding-top: 20px;">
+						<div class="col-md">
+							<img src="images/imageprocessing/Pixelntensities.jpg"
+								 height = auto
+								 width = 510px />
+						</div>
+						<div class="col-md">
+							<img src="images/imageprocessing/AbsMeanError.jpg"
+								 height = auto
+								 width = 510px />
+						</div>
+						<div class="col-md" style="padding-top: 20px;">
+							<div class="p">
+								• This study is done to see the effect of Poisson distribution on signals.
+								Here, I took specific number of Poisson distribution of each single pixel of a grayscale 
+								image with Poisson parameter lambda equal to the pixel brightness of the pixel in 8-digit 
+								scale.
+							</div>
+							<div class="p">
+								• As number of consecutive Poisson distributions increases, the noise in the image reduces. The graphs on bottom right
+								supports this claim since these graphs indicate the absolute mean error between original image and decayed image for
+								every single number of Poisson distributions. 
+							</div>
+							<div class="p">
+								• Another way to see the difference between these images quantitatively, we can analyze the difference between pixel brightness
+								graphs on bottom left. The peaks in "Observation Matrix" indicate the noise generated.
+							</div>
+							<div class="p">
+								• The reason the effect of Poisson distribution analyzed here is, this probabilistic fact is going to be used in further studies
+								on predicting the Source-Shot Noise, which is a challenge for imaging techniques using electron beam microscopy.
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="resume-wrap ftco-animate">
+					<h2>Application of Anti-Alias Filtering</h2>
+					<div class="row">
+						<div class="col-md">
+							<img src="images/antialiasfiltering/samplingAA.png"
+								 height = auto
+								 width = 510px />
+						</div>
+						<div class="col-md">
+							<img src="images/antialiasfiltering/samplingNonAA.png"
+								 height = auto
+								 width = 510px />						
+						</div>	
+					</div>
+					<div class="col-md" style="padding-top: 20px;">
+						<div class="p">
+							• This study is done to see the effects of anti-alias filtering.
+						</div>
+						<div class="p">
+							• The magnitude of sampled signal with anti-alias filtering is 3 times less than sampled signal with anti-alias filtering.
+						</div>
+					</div>
+				</div>
+				<div class="resume-wrap ftco-animate">
+					<h2>Application of Gibbs Effect in Fourier Series</h2>
+					<div class="row">
+						<div class="col-md">
+							<img src="images/gibbseffect/rectangular.png"
+								 height = auto
+								 width = 510px />
+						</div>
+						<div class="col-md">
+							<img src="images/gibbseffect/triangular.png"
+								 height = auto
+								 width = 510px />						
+						</div>	
+					</div>
+					<div class="col-md" style="padding-top: 20px;">
+						<div class="p">
+							• This study is done to see the Gibbs Effect in Fourier series. As we increase the number of samples used in series which is N,
+							the signals become more similar to each other. On the other hand, the peaks, in other words, errors accumulate on the edges of the
+							discontinuities as N increases.
+						</div>
+					</div>
+				</div>
+			</div>
+    </section>
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>
