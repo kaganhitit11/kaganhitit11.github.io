@@ -1,62 +1,69 @@
 ---
 layout: archive
-title: "<a href='/files/resume_okh.pdf'>Resume</a>"
+title: "Resume"
 permalink: /resume/
 author_profile: true
 ---
 
 {% include base_path %}
 
+[Download the PDF version](/files/resume_okh.pdf)
+
 ---
 
 Education
-======
+=========
 
-**Koç University, College of Engineering**, Istanbul, Turkey  
-*B.S. in Electrical & Electronics Engineering (Track in Artificial Intelligence)*  
-*B.S. in Computer Engineering (Double Major)*
-<em>Sep 2020 – Present</em> (%100 merit scholarship)
+**University of California, Los Angeles**, Los Angeles, California<br>
+*M.S. in Electrical and Computer Engineering*<br>
+<em>September 2026 – Present</em>
+
+**Koç University, College of Engineering**, Istanbul, Turkey<br>
+*B.S. in Electrical & Electronics Engineering (Artificial Intelligence Track)*<br>
+*B.S. in Computer Engineering (Double Major)*<br>
+<em>September 2020 – June 2026</em><br>
+Cumulative GPA: 3.70; major GPA: 3.78 (100% merit scholarship)
 
 
 **Boston University, College of Engineering**, Boston, MA  
 *B.S. in Electrical Engineering*  
-<em>Sep 2022 – Jan 2023</em> (%100 merit scholarship, transferred to BU, did not complete)
+<em>September 2022 – January 2023</em><br>
+Cumulative GPA: 3.56; major GPA: 3.71 (100% merit scholarship; transferred to Boston University, degree not completed)
 
 ---  
 
 Research Experience
-======
+===================
 
-**Helmholtz Munich (TUM)**, UG Research Assistant  
+**[UCLA Ozcan Lab](https://innovate.ee.ucla.edu/)**, Graduate Student Researcher<br>
+*Advisor: [Prof. Aydoğan Özcan](https://www.ee.ucla.edu/aydogan-ozcan/)*<br>
+*September 2026 – Present*<br>
+- Working on machine-learning-integrated lens-free imaging systems.
+
+**Helmholtz Munich and Technical University of Munich**, Researcher<br>
 *Advisor: [Prof. Zeynep Akata](https://www.eml-munich.de/people/zeynep-akata)*  
-*July 2025 – Present*  
-- Conducting large-scale benchmark studies to evaluate both conventional and subspace-based model merging methods across diverse LLM benchmarks.
-- Investigating the theoretical and empirical limits of constructive interference, analyzing whether current state-of-the-art merging techniques truly achieve synergistic generalization across tasks.
+*July 2025 – March 2026*<br>
+- Studied constructive interference and benchmarked conventional and subspace-based model-merging methods for large language models.
 
-**KUIS AI Center**, Koç University, UG Research Assistant  
+**KUIS AI Center**, Koç University, Researcher<br>
 *Advisor: [Assoc. Prof. Aykut Erdem](https://aykuterdem.github.io/)*  
 *July 2025 – Present*  
-- Researching generative image models within the continual learning domain, focusing on maintaining visual knowledge across sequential style updates.
-- Exploring diffusion-based LoRA architectures for multi-style transfer while preserving identity and prior stylistic representations.
+- Working on generative image models, diffusion-based architectures, and identity-preserving style transfer.
 
 **Koç University GGLab**, UG Research Assistant  
 *Advisor: [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/)*  
 *June – August 2024*  
-- Integrated lightweight NLI models with Dialogue State Tracking (DST) on MultiWOZ 2.4 to enhance conversational AI.
-- Implemented BIO-tagging–based slot extraction and evaluated end-to-end improvements.
+- Integrated lightweight NLI models and BIO-tagging-based slot extraction with Dialogue State Tracking on MultiWOZ 2.4.
 
 **Boston University STIR Group**, UG Research Assistant  
 *Advisor: [Prof. Vivek Goyal](https://www.vivekgoyal.org/)*  
 *September 2022 – August 2024*  
-- Developed probabilistic algorithms to mitigate noise in particle-beam microscopy images, improving data reliability.
-- Analyzed and optimized resolution-enhancement techniques for higher-quality imaging.
-- Co-authored three publications, presented a poster at Microscopy & Microanalysis (M&M) 2023.
+- Developed probabilistic methods for improving resolution and mitigating noise in particle-beam microscopy, resulting in three co-authored publications.
 
 **Koç University CALICOLAB**, UG Research Assistant  
 *Advisor: [Asst. Prof. Murat Kuşçu](https://mysite.ku.edu.tr/mkuscu/)*  
 *January – June 2022*  
-- Investigated translation of odor molecules into neural activity patterns in the olfactory circuit.
-- Conducted real-world scattering experiments to improve mathematical modeling of odor conduction.
+- Investigated olfactory signaling and conducted scattering experiments to improve mathematical models of odor transport.
 
 ---  
 
@@ -106,3 +113,22 @@ Honors
 - **62nd** nationwide in Turkey's 2020 University Entrance Exam (*YKS*); among >2,000,000 candidates.
 - Koç University *Dean's Honor Roll*, 2020–2024.
 - **3rd** place, TUBITAK Undergraduate Research Projects Competition (2021), Defense, Space & Aeronautics category.
+
+---
+
+Skills
+======
+
+- **Languages and libraries:** Python, Java, Kotlin, C, SQL, PyTorch, CUDA, Django, Spring Boot, React, and Flutter.
+- **Systems and tools:** PostgreSQL, Microsoft Azure, Git, Linux, Docker, Kubernetes, Slurm, and Firebase.
+- **Research areas:** Computational imaging, microscopy, model merging, generative modeling, and reinforcement learning for natural language processing.
+
+---
+
+Publications
+============
+
+- **Oğuz Kağan Hitit**, Leander Girrbach, and Zeynep Akata. “[A Systematic Study of In-the-Wild Model Merging for Large Language Models](https://openreview.net/forum?id=6zSIyrqS7J).” *Transactions on Machine Learning Research*, 2026.
+- Akshay Agarwal, Leila Kasaei, Xinglin He, Ruangrawee Kitichotkul, **Oğuz Kağan Hitit**, J. Albert Schultz, Leonard C. Feldman, and Vivek Goyal. “[Ion Count-Aided Microscopy for Quantitative, Shot Noise-Mitigated Secondary Electron Imaging](https://doi.org/10.1093/mam/ozae044.987).” *Microscopy and Microanalysis*, 2024.
+- Akshay Agarwal, Leila Kasaei, Xinglin He, Ruangrawee Kitichotkul, **Oğuz Kağan Hitit**, Minxu Peng, J. Albert Schultz, Leonard C. Feldman, and Vivek Goyal. “[Shot Noise-Mitigated Secondary Electron Imaging with Ion Count-Aided Microscopy](https://doi.org/10.1073/pnas.2401246121).” *Proceedings of the National Academy of Sciences*, 2024.
+- **Oğuz Kağan Hitit**, Akshay Agarwal, and Vivek Goyal. “[Fourier-ring Correlation Resolution for Time-resolved Measurement in Charged Particle Microscopy](https://doi.org/10.1093/micmic/ozad067.360).” *Microscopy and Microanalysis*, 2023.

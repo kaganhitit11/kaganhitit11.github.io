@@ -7,16 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Oğuz Kağan Hitit, a senior undergraduate student at Koç University, double majoring in Electrical & Electronics Engineering and Computer Engineering, with a specialization in Artificial Intelligence.
+Hi! I’m Oğuz Kağan Hitit, an M.S. student in Electrical and Computer Engineering at UCLA. I work with [Prof. Aydoğan Özcan](https://www.ee.ucla.edu/aydogan-ozcan/) in the [Ozcan Lab](https://innovate.ee.ucla.edu/) on machine-learning-integrated lens-free imaging.
 
-My academic and research interests lie at the intersection of generative modeling, explainable AI systems and microscopy. 
+Previously, I worked with [Prof. Zeynep Akata](https://www.eml-munich.de/people/zeynep-akata) at Helmholtz Munich and the Technical University of Munich, studying constructive interference and benchmarking model-merging methods for large language models. I continue to work with [Assoc. Prof. Aykut Erdem](https://aykuterdem.github.io/) at the KUIS AI Center on generative image models, diffusion-based architectures, and identity-preserving style transfer.
 
-I am a research assistant at Helmholtz-Munich & Technical University of Munich under [Prof. Zeynep Akata](https://www.eml-munich.de/people/zeynep-akata), where I investigate constructive interference in model merging and conduct large-scale benchmark studies on state-of-the-art LLM merging techniques. 
+Earlier in my academic career, I worked with [Prof. Vivek Goyal](https://www.vivekgoyal.org/) at Boston University, developing probabilistic methods for improving resolution and mitigating noise in particle-beam microscopy.
 
-Also, At the KUIS AI Center, I work with [Assoc. Prof. Aykut Erdem](https://aykuterdem.github.io/) on generative image models and continual learning, exploring how diffusion and LoRA-based architectures can retain and adapt to new information in image style-transfer over time. 
-
-Earlier in my academic path, I worked at Boston University with [Prof. Vivek Goyal](https://www.vivekgoyal.org/), developing probabilistic algorithms to improve resolution and noise performance in particle-beam microscopy. 
-
-Beyond academia, I am the Co-Founder of [Leagle](https://leagleapp.com/en) — a legal-tech startup based in Turkey. At Leagle, we build LLM-powered specialized agents and a SaaS platform to automate legal workflows, increase efficiency, and assist legal professionals with domain-specific, context-aware AI systems.
+Beyond research, I am a co-founder of [Leagle](https://leagleapp.com/en), a legal technology startup developing specialized LLM-powered agents and software for automating legal workflows.
 
 ---

@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Oguz Kagan Hitit"
+title                    : "Oğuz Kağan Hitit"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Oğuz Kağan Hitit"
+description              : &description "Oğuz Kağan Hitit is an M.S. student and Graduate Student Researcher at UCLA working on machine-learning-enabled computational imaging, lens-free microscopy, and generative AI."
 url                      : https://kaganhitit11.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "kaganhitit11/kaganhitit11.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Oguz Kagan Hitit"
+  name             : "Oğuz Kağan Hitit"
   pronouns         : # example: "she/her"  
-  bio              : "I am a senior undergraduate student at Koç University, double majoring in Electrical & Electronics Engineering and Computer Engineering with a specialization in Artificial Intelligence."
-  location         : "Istanbul, Turkey"
-  employer         : "Koç University"
+  bio              : "UCLA M.S. student working on machine-learning-enabled computational imaging and generative models."
+  location         : "Los Angeles, California"
+  employer         : "UCLA"
   uri              : # URL
   email            : "ohitit20@ku.edu.tr" 
 
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/kaganhitit11"
+  github           : "kaganhitit11"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "oguzkaganhitit"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
