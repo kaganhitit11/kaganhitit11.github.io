@@ -22,13 +22,8 @@ Education
 *B.S. in Electrical & Electronics Engineering (Artificial Intelligence Track)*<br>
 *B.S. in Computer Engineering (Double Major)*<br>
 <em>September 2020 – June 2026</em><br>
-Cumulative GPA: 3.70; major GPA: 3.78 (100% merit scholarship)
+Cumulative GPA: 3.72; area GPA: 3.81 (100% merit scholarship)
 
-
-**Boston University, College of Engineering**, Boston, MA  
-*B.S. in Electrical Engineering*  
-<em>September 2022 – January 2023</em><br>
-Cumulative GPA: 3.56; major GPA: 3.71 (100% merit scholarship; transferred to Boston University, degree not completed)
 
 ---  
 
@@ -38,27 +33,32 @@ Research Experience
 **[UCLA Ozcan Lab](https://innovate.ee.ucla.edu/)**, Graduate Student Researcher<br>
 *Advisor: [Prof. Aydoğan Özcan](https://www.ee.ucla.edu/aydogan-ozcan/)*<br>
 *September 2026 – Present*<br>
-- Working on machine-learning-integrated lens-free imaging systems.
+- Developing a video analysis framework that combines temporal action segmentation and procedural error detection to quantify procedural reliability in laboratory evaluations of a Lyme disease point-of-care sensor, using recordings of technicians performing the tests.
 
 **Helmholtz Munich and Technical University of Munich**, Researcher<br>
 *Advisor: [Prof. Zeynep Akata](https://www.eml-munich.de/people/zeynep-akata)*  
 *July 2025 – March 2026*<br>
-- Studied constructive interference and benchmarked conventional and subspace-based model-merging methods for large language models.
+- Benchmarked conventional and subspace-based LLM merging methods across multiple evaluation tasks to assess cross-task generalization.
+- Analyzed the theoretical and empirical limits of constructive interference in model merging; first author of a TMLR publication (2026).
 
 **KUIS AI Center**, Koç University, Researcher<br>
 *Advisor: [Assoc. Prof. Aykut Erdem](https://aykuterdem.github.io/)*  
 *July 2025 – Present*  
-- Working on generative image models, diffusion-based architectures, and identity-preserving style transfer.
+- Developing an image-to-LoRA framework for one-shot content- and style-conditioned image generation using separate content and style hypernetworks.
+- Investigating the composition of image-conditioned LoRA adapters to enable content-guided generation, style-guided generation, and reference-based stylization without per-reference fine-tuning.
 
 **Koç University GGLab**, UG Research Assistant  
 *Advisor: [Asst. Prof. Gözde Gül Şahin](https://gozdesahin.github.io/)*  
 *June – August 2024*  
-- Integrated lightweight NLI models and BIO-tagging-based slot extraction with Dialogue State Tracking on MultiWOZ 2.4.
+- Integrated lightweight NLI models with Dialogue State Tracking (DST) on MultiWOZ 2.4 to enhance conversational AI.
+- Implemented BIO-tagging-based slot extraction and evaluated end-to-end improvements.
 
 **Boston University STIR Group**, UG Research Assistant  
 *Advisor: [Prof. Vivek Goyal](https://www.vivekgoyal.org/)*  
 *September 2022 – August 2024*  
-- Developed probabilistic methods for improving resolution and mitigating noise in particle-beam microscopy, resulting in three co-authored publications.
+- Developed probabilistic algorithms to mitigate noise in particle-beam microscopy images, improving data reliability.
+- Analyzed and optimized resolution-enhancement techniques for higher-quality imaging.
+- Co-authored three publications and presented a poster at Microscopy & Microanalysis (M&M) 2023.
 
 **Koç University CALICOLAB**, UG Research Assistant  
 *Advisor: [Asst. Prof. Murat Kuşçu](https://mysite.ku.edu.tr/mkuscu/)*  
@@ -72,8 +72,9 @@ Work Experience
 
 **Leagle**, Co-Founder — Istanbul, Turkey  
 <em>April 2024 – Present</em>  
-- Developed LLM-powered agents to automate legal workflows, enhancing efficiency and enabling professionals to focus on high-value strategic tasks.
-- Led NLP solution design and full-stack development for the successful launch of Leagle’s web platform.
+- Co-founded and led the development of Leagle, an AI-powered legal research and drafting platform serving 1,000+ daily users.
+- Designed and deployed LLM-powered agentic workflows for legal research, document analysis, and drafting, reducing repetitive manual work for legal professionals.
+- Led the end-to-end development of Leagle’s NLP infrastructure and web platform, from retrieval and model orchestration to backend APIs and production deployment.
 
 **Valensas**, Software Engineer — Istanbul, Turkey  
 <em>July – Dec 2024</em>  
@@ -84,7 +85,6 @@ Work Experience
 **Koç University IT Department**, Software Engineering Intern — Istanbul, Turkey  
 <em>Jan – July 2024</em>  
 - Designed and developed the Flutter-based *KUGate* app to streamline campus access and security workflows.
-- Enhanced the *KUHub Mobile* app by implementing new features to improve user experience and functionality.
 
 **ASELSAN**, Software Engineering Intern — Ankara, Turkey  
 <em>Aug – Sep 2023</em>  
@@ -111,7 +111,7 @@ Honors
 ======
 
 - **62nd** nationwide in Turkey's 2020 University Entrance Exam (*YKS*); among >2,000,000 candidates.
-- Koç University *Dean's Honor Roll*, 2020–2024.
+- Koç University *Dean's Honor Roll*, 2022–2026.
 - **3rd** place, TUBITAK Undergraduate Research Projects Competition (2021), Defense, Space & Aeronautics category.
 
 ---
@@ -120,8 +120,8 @@ Skills
 ======
 
 - **Languages and libraries:** Python, Java, Kotlin, C, SQL, PyTorch, CUDA, Django, Spring Boot, React, and Flutter.
-- **Systems and tools:** PostgreSQL, Microsoft Azure, Git, Linux, Docker, Kubernetes, Slurm, and Firebase.
-- **Research areas:** Computational imaging, microscopy, model merging, generative modeling, and reinforcement learning for natural language processing.
+- **Systems and tools:** PostgreSQL, Microsoft Azure, Git, Linux, Docker, Kubernetes (k3s), Slurm, and Firebase.
+- **Research areas:** Model merging theory; generative style transfer in text-to-image models; reinforcement learning in natural language processing applications; computational imaging and microscopy.
 
 ---
 
