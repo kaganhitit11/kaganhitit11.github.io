@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[Download the PDF version](/files/resume_okh.pdf)
+[Download the PDF version](/files/resume-oguz-kagan-hitit-2026-09.pdf)
 
 ---
 
